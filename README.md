@@ -2,8 +2,8 @@
 
 > **Problem Statement 4 · Hacktober Fest** — *Infer the missing accounting voucher type of a transaction by understanding the transaction as a whole, not by matching keywords.*
 
-**Team:** `HackOps` · Baisakhi · Ahana · Mrunmayee · Harshwardhan
-
+**Team:** `HackOps` · Baisakhi Parida · Ahana Iyer · Mrunmayee Deshpande· Harshwardhan
+ Chhangani
 ---
 
 ## Executive Summary
